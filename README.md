@@ -66,5 +66,5 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 ---
 
 <p align="center">
-  Made with 💜 <a href="https://github.com/AndrePassoni">André Passoni</a>
+  Made with 💜 by <a href="https://github.com/AndrePassoni">André Passoni</a>
 </p>
